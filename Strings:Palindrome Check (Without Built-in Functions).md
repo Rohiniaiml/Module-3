@@ -12,14 +12,19 @@ To write a Python program to check whether the string `"google"` is a **palindro
 4. Execute the program.
 
 ## 🧾 Program
-tuplex = input()
+a=input()
 
-print("n" in tuplex)
+s=a[::-1]
 
-print("8" in tuplex)
+if a==s:
+       print("The entered string is palindrome")
+
+else:
+    print("The entered string is not palindrome")
 
 ## Output
-![image](https://github.com/user-attachments/assets/faf1776c-a4e0-4d14-bbe7-ced41319c05d)
+![image](https://github.com/user-attachments/assets/f1539c5c-178b-4973-b9cd-631db1d45725)
+
 
 ## Result
 Thus the program executed successfully
