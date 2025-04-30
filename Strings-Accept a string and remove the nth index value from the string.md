@@ -15,8 +15,19 @@ To write a Python program that accepts a string and removes the character at a s
 8. Print the final result.
 
 ## 💻 Program
-Add Code Here
 
+a=input()
+
+s=a[::-1]
+
+if a==s:
+
+     print("The entered string is palindrome")
+
+else:
+    print("The entered string is not palindrome")
 ## Output
+![image](https://github.com/user-attachments/assets/0a5c61ca-c914-4383-b891-68a6d109a150)
 
 ## Result
+Thus the program executed successfully
