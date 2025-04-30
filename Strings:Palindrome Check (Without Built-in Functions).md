@@ -12,9 +12,14 @@ To write a Python program to check whether the string `"google"` is a **palindro
 4. Execute the program.
 
 ## 🧾 Program
+tuplex = input()
 
-Add code here
+print("n" in tuplex)
+
+print("8" in tuplex)
 
 ## Output
+![image](https://github.com/user-attachments/assets/faf1776c-a4e0-4d14-bbe7-ced41319c05d)
 
 ## Result
+Thus the program executed successfully
